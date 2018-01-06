@@ -1,0 +1,4 @@
+.project.vim
+.undodir
+.env
+build
